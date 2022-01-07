@@ -1,0 +1,1 @@
+<h1> <?php echo e($data); ?></h1><?php /**PATH C:\xampp\htdocs\fslaravel\resources\views/test.blade.php ENDPATH**/ ?>
